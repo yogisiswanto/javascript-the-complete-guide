@@ -1,0 +1,5 @@
+- Javascript is a dynamic, weakly typed programming language which is compiled at a runtime.
+- It can be executed as part of a webpage in a browser or directly on any macine (host environment)
+- Tujuan Javascript dibuat adalah untuk membuat tampilan website lebih menarik
+- Awalnya Javascript bernama livescipt, tapi diubah menjadi Javascript dengan tujuan agar sama populernya dengan bahasa Java
+- Javascript tidak ada kaitannya dengan Java
