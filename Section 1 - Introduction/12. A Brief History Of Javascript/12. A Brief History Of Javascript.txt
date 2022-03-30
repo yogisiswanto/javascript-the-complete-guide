@@ -1,0 +1,19 @@
+Sejarah javascript:
+1995 - Netscape mengenalkan sebuah skrip dengan nama LiveScript/javascript
+1996 - Microsoft merilis IE pertama
+Akhir 1996 - Javascript didaftarkan ke ECMA
+1997 - 2005 - ECMA melakukan standardisai untuk mendukung javascript
+2006 - 2011 - Karena progres yang dilakukan sangat signifikan, akhirnya Microsoft bergabung
+
+Javascript & ECMA Script
+
+ECMA
+-----
+- Organisasi yang melakukan standardisasi
+- ECMA Script tidak secara langsung berhubungan dengan browser
+
+Javascript
+----------
+- Merupakan ECMA Script yang diimplementasikan oleh vendor browser
+- Setiap browser berbeda dalam intepretasi javascript
+

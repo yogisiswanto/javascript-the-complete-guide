@@ -1,0 +1,9 @@
+Dynamic, intrepreted programming languages:
+- Javascript tidak perlu dikompilasi
+- Javascript bisa di eksekusi dan dievaluasi secara langsung
+- Kode dapat diubah secara langsung
+
+Weakly typed programming languages:
+- Tipe data yang dinamis
+- Tidak perlu mendeklarasikan sebuah tipe data
+- Tipe data data dapat diubah secara dinamis

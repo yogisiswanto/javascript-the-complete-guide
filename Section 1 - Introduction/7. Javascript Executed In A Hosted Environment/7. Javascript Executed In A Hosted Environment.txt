@@ -1,0 +1,12 @@
+Javascript dapat berjalan pada beberapa lingkungan seperti browser dan server-side (Node.js)
+
+Javascript pada browser:
+- Awalnya javascript dikembangkan untuk membuat website lebih dinamis dengan mengeksekusi javascript pada browser
+- Javascript di browser dapat memanipulasi HTML, CSS, dan melakukan request data
+- Javascript di browser tidak dapat mengakses file yang ada pada sistem operasi
+
+Javascript pada server-side
+- Karena javascript dapat melakukan request data, atas inisiatif bebearapa orang, core dari V8 Chrome di extraks menjadi mesin yang bisa menjalankan javascript untuk server-side
+- Node.js dapat dijalankan dibanyak mesin dan sistem operasi untuk membuat backend
+- Node.js tidak dapat melakukan manipulasi HTML, CSS
+- Node.js dapat melakukan manipulasi file lokal yang ada pada sistem operasi

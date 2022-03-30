@@ -1,0 +1,11 @@
+Cara javascript bekerja:
+Kode -> javascript engine -> effect pada halaman website
+
+Cara javascript engine bekerja:
+pasing kode -> kompilasi kedalam bahasa mesin -> hasil kompilasi
+
+Javascript dieksekusi dengan single thread
+
+Javascript pada browser:
+- V8 pada Chrome
+- Spider Monkey pada Firefox

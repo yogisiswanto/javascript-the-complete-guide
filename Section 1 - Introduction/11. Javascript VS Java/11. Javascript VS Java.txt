@@ -1,0 +1,20 @@
+Javascript berbeda dengan javascript
+
+Java:
+- OOP, strongly type programming language
+- Hanya berjalan sebagai server-side, tidak bisa berjalan di browser
+
+
+Javascript:
+- Fleksibel, Weakly types
+- Bisa berjalan sebagai server-side dan di browser
+
+Javascript sebagai client-side:
+- Asal mula peruntukan javascript
+- Beda browser, beda implementasi javascript
+- Di ijinkan untuk manipulasi dan interaksi pada halaman website dan API dari browser
+
+Javascript sebagai server-side:
+- Dibuat agar javascript bisa berjalan diluar dari browser
+- Ekstraksi dari mesin V8 untuk menjalankan javascript
+- Dapat mengakses file lokal dan sistem operasi
