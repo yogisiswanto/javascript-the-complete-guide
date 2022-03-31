@@ -1,0 +1,13 @@
+Varible
+-------
+Variable adalah sebuah tempat dimana sebuah data disimpan yang nilainya dapat diubah. Pada javascript variable diawali oleh phrase "let", kemudian di ikuti oleh nama variable, tanda sama dengan (=), nilainya dan diakhiri oleh titik koma (;)
+
+contoh:
+let variableName = 'value of variable';
+
+Const
+-------
+Const atau konstant adalah sebuah tempat dimana sebuah data disimpan yang nilainya tidak dapat diubah. Pada javascript const diawali oleh phrase "const", kemudian di ikuti oleh nama variable, tanda sama dengan (=), nilainya dan diakhiri oleh titik koma (;)
+
+contoh:
+const constName = 'value of const';

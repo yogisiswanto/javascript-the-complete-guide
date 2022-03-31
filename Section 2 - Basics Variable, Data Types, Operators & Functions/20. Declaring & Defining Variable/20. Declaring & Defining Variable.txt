@@ -1,0 +1,14 @@
+Untuk membuat sebuah nama variable harus mengikuti aturan sebagai berikut
+
+Autran yang dibolehkan:
+- Nama variable ditulis secara camelCase : let variableName;
+- Nama variable hanya boleh alfabet dan angka saja : let variableName1;
+- Nama variable bisa diawali dengan karakter dollar ($) : let $variableName;
+- Nama variable bisa diawali dengan karakter underscore (_) : let _variableName;
+
+
+Autran yang tidak dibolehkan:
+- Nama variable ditulis secara snake_case : let variable_name;
+- Nama variable tidak boleh diawali dengan karakter angka : let 1variableName;
+- Nama variable tidak boleh mengandung karakter underscore (-) : let variable-name;
+- Nama variable tidak boleh memakai kata-kata yang sudah direservasi oleh javascript : let let;

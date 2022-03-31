@@ -1,0 +1,9 @@
+Operator matematika pada javascript:
+- Tambah (+)
+- Kurang (-)
+- Kali (*)
+- Bagi (/)
+- Modulus (%)
+- Perpangkatan (**)
+
+Hasil dari operasi matematika ini dimasukan kedalam variable melelui tanda sama dengan / assign (=)

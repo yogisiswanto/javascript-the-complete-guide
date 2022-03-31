@@ -1,0 +1,6 @@
+Fungsi adalah sebuah potongan program yang melakukan sebuah komputasi tertentu
+Fungsi pada javascript dapat dibuat dengan menuliskan "function" diikuti dengan nama fungsinya, kemudian diikuti oleh tanda kurung, dan diikuti oleh tanda kurung kurawal
+Sebuah fungsi bisa memerlukan parameter atau pun tidak
+Sebuah fungsi bisa mengembalikan nilai hasil pengolahan melalui return ataupun tidak
+Untuk memanggil sebuah fungsi, cukup memanggil nama fungsinya diikuti dengan tanda kurung, jika fungsi tersebut memerlukan paramater, maka isi tanda kurung dengan parameter yang diminta, jika tidak, maka kosongkan saja
+Setiap fungsi berjalan secara tersendiri

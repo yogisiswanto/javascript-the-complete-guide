@@ -1,0 +1,3 @@
+Tipe data pada javascript:
+- Number : 2, -3, 22.96 (digunakan untuk melakukan operasi matematika)
+- String (Text) : "Hi", 'Hi', `Hi` (digunakan untuk menampilkan output atau mendapatkan input)
