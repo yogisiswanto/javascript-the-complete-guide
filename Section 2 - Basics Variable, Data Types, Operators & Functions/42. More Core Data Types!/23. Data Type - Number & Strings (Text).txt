@@ -1,0 +1,6 @@
+Tipe data pada javascript:
+- Number : 2, -3, 22.96 (digunakan untuk melakukan operasi matematika)
+- String (Text) : "Hi", 'Hi', `Hi` (digunakan untuk menampilkan output atau mendapatkan input)
+- Boolean : true/false (digunakan untuk data yang memiliki 2 pilihan saja)
+- Objects : {name:"yogi", age:26} (digunakan untuk mengelompokkan/mengorganisir data)
+- Arrays : [1,3,5] (digunakan untuk membuat list data)
