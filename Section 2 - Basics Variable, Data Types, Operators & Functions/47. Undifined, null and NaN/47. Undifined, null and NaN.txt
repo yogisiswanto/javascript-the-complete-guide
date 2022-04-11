@@ -1,0 +1,3 @@
+undifined: nilai default dari sebuah variable
+null: nilai yang digunakan untuk melakukan reset nilai dari sebuah variable dengan melakukan assignment
+NaN: sebuah error code yang menandakan bahwa tidak boleh melakukan operasi aritmatika antara angka dengan bukan angka 

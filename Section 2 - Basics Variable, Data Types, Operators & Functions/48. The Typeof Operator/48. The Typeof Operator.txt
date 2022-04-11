@@ -1,0 +1,7 @@
+Typeof
+
+Sebuah operator untuk mengetahui tipe data dari sebuah data atau variable
+
+Contoh:
+
+    typeof "Hi" -> "String"

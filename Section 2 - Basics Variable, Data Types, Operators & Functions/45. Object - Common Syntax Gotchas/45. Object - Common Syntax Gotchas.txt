@@ -1,0 +1,12 @@
+Membuat sebuah object dalam javascript
+- Buat sebuah variable (let objects)
+- Assign kan {} kedalam sebuah variable dengan menggunakan tanda = (sama dengan) dan diakhiri dengan tanda ; (titik koma) (let objects = {};)
+- Untuk mengisi pasangan key-value pada variable object, cukup pisahkan dengan tanda , (koma)
+- Sebuah value di assign kan kedalam sebuah key dengan menggunakan tanda : (titik dua)
+
+Contoh:
+
+const user = {
+    name: 'userName',
+    age: 30
+};
