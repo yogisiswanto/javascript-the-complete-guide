@@ -1,0 +1,8 @@
+Nilai Falsy dan Truthy
+Javascript akan mengkonversikan nilai-nilai berikut menjadi boolean
+0 -> false
+angka lain termasuk nilai negatif -> true
+"" (string kosong) -> false
+semua string yang tidak kosong termasuk string "false" -> true
+object, array dan semua nilai yang ada didalam object dan array -> true
+null, undefined, NaN -> false
